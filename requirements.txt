@@ -1,0 +1,8 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+cryptography
+python-dotenv
+requests
+openai
+qdrant-client
